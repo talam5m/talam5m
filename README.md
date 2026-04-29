@@ -6,13 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talam5m&label=Profile%20views&color=0e75b6&style=flat" alt="talam5m" /> </p>
 
 
-- ✨ I'm interested in **Backend Development, Data Product Managment, & AI**
+- ✨ I'm interested in **Backend Development, Data Product Managment, & AI.**
   
 - ⚡ Fun fact **I'm a coffee enthusiast! My prefect day would start and end with a cup of coffee ☕**
 
 - 📫 How to reach me **Talabakirr@gmail.com**
  
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
